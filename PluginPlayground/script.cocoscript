@@ -4,11 +4,11 @@ var onRun = function(context) {
 }
 
 var onStartup = function(context) {
-  log("onStartup");
+  //log("onStartup");
 }
 
 var onOpenDocument = function(context) {
-  log("onOpenDocument");
+  //log("onOpenDocument");
 }
 
 var onSelectionChanged = function(context) {

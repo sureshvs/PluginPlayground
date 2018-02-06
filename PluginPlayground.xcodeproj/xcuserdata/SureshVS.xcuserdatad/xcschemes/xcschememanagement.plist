@@ -4,6 +4,11 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>PlaygroundPanel.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 		<key>PluginPlayground.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -13,6 +18,11 @@
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
 		<key>2C3B78FA2029756900E4A66D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2C3B790D202976C200E4A66D</key>
 		<dict>
 			<key>primary</key>
 			<true/>
