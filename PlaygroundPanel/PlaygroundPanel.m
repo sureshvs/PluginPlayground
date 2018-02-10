@@ -16,6 +16,12 @@
 #import <Mocha/MOJavaScriptObject.h>
 #import <Mocha/MochaRuntime_Private.h>
 
+@protocol MAMSDocument <NSObject>
+
+@optional
+- (void)showMessage:(NSString *)theMessage;
+@end
+
 
 @interface PlaygroundPanel : NSObject
 
@@ -30,8 +36,9 @@
 @implementation PlaygroundPanel
 
 + (void)onSelectionChanged:(id)context {
-    NSLog(@"v1 selection");
-//    NSLog(@"v2 selection");
+    id <MAMSDocument> document = [context valueForKeyPath:@"actionContext.document"];
+    [document showMessage:@"v1"];
+//    [document showMessage:@"v2"];
 }
 
 + (void)onShutdown:(id)context {
