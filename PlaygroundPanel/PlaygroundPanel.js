@@ -43,5 +43,5 @@ var onShutdown = function(context) {
 }
 
 var onSelectionChanged = function(context) {
-  PlaygroundPanel.onSelectionChanged(context);
+    PlaygroundPanel.onSelectionChanged(context);
 };

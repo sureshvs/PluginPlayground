@@ -1,6 +1,6 @@
 {
 	"name": "PluginPlayground",
-	"description" : "___DESCRIPTION___",
+	"description" : "Testing Framework shutdown",
 	"author": "Suresh V Selvaraj",
 	"authorEmail" : "___EMAIL___",
 	"homepage": "___HOMEPAGE___",
@@ -8,7 +8,7 @@
 	"compatibleVersion": 44,
 	"build": 1,
 	"version": 1,
-  "appcast": "https://api.sketchpacks.com/v1/plugins/PLUGIN_IDENTIFIER/appcast",
+    "appcast": "https://api.sketchpacks.com/v1/plugins/PLUGIN_IDENTIFIER/appcast",
 	
 	"commands": [
 		{
