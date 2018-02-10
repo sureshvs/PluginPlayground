@@ -10,7 +10,6 @@
 #import <dlfcn.h>
 #import "PlaygroundPanel.h"
 #import <CocoaScript/COScript.h>
-#import "PlaygroundPanelSketchPanelController.h"
 @import JavaScriptCore;
 #import <Mocha/Mocha.h>
 #import <Mocha/MOClosure.h>

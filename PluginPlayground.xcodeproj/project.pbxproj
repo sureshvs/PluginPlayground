@@ -11,21 +11,6 @@
 		2C3B79012029756900E4A66D /* script.cocoscript in CopyFiles */ = {isa = PBXBuildFile; fileRef = 2C3B79002029756900E4A66D /* script.cocoscript */; };
 		2C3B7912202976C200E4A66D /* PlaygroundPanel.js in Resources */ = {isa = PBXBuildFile; fileRef = 2C3B7911202976C200E4A66D /* PlaygroundPanel.js */; };
 		2C3B7914202976C200E4A66D /* PlaygroundPanel.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C3B7913202976C200E4A66D /* PlaygroundPanel.m */; };
-		2C3B7917202976C200E4A66D /* PlaygroundPanelMSDocument.h in Headers */ = {isa = PBXBuildFile; fileRef = 2C3B7916202976C200E4A66D /* PlaygroundPanelMSDocument.h */; };
-		2C3B7919202976C200E4A66D /* PlaygroundPanelMSInspectorStackView.h in Headers */ = {isa = PBXBuildFile; fileRef = 2C3B7918202976C200E4A66D /* PlaygroundPanelMSInspectorStackView.h */; };
-		2C3B791C202976C200E4A66D /* PlaygroundPanelSketchPanel.h in Headers */ = {isa = PBXBuildFile; fileRef = 2C3B791B202976C200E4A66D /* PlaygroundPanelSketchPanel.h */; };
-		2C3B791E202976C200E4A66D /* PlaygroundPanelSketchPanel.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C3B791D202976C200E4A66D /* PlaygroundPanelSketchPanel.m */; };
-		2C3B7920202976C200E4A66D /* PlaygroundPanelSketchPanelCell.h in Headers */ = {isa = PBXBuildFile; fileRef = 2C3B791F202976C200E4A66D /* PlaygroundPanelSketchPanelCell.h */; };
-		2C3B7922202976C200E4A66D /* PlaygroundPanelSketchPanelCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C3B7921202976C200E4A66D /* PlaygroundPanelSketchPanelCell.m */; };
-		2C3B7925202976C200E4A66D /* PlaygroundPanelSketchPanelCellDefault.h in Headers */ = {isa = PBXBuildFile; fileRef = 2C3B7924202976C200E4A66D /* PlaygroundPanelSketchPanelCellDefault.h */; };
-		2C3B7927202976C200E4A66D /* PlaygroundPanelSketchPanelCellDefault.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C3B7926202976C200E4A66D /* PlaygroundPanelSketchPanelCellDefault.m */; };
-		2C3B7929202976C200E4A66D /* PlaygroundPanelSketchPanelCellDefault.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2C3B7928202976C200E4A66D /* PlaygroundPanelSketchPanelCellDefault.xib */; };
-		2C3B792B202976C200E4A66D /* PlaygroundPanelSketchPanelCellHeader.h in Headers */ = {isa = PBXBuildFile; fileRef = 2C3B792A202976C200E4A66D /* PlaygroundPanelSketchPanelCellHeader.h */; };
-		2C3B792D202976C200E4A66D /* PlaygroundPanelSketchPanelCellHeader.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C3B792C202976C200E4A66D /* PlaygroundPanelSketchPanelCellHeader.m */; };
-		2C3B792F202976C200E4A66D /* PlaygroundPanelSketchPanelCellHeader.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2C3B792E202976C200E4A66D /* PlaygroundPanelSketchPanelCellHeader.xib */; };
-		2C3B7931202976C200E4A66D /* PlaygroundPanelSketchPanelController.h in Headers */ = {isa = PBXBuildFile; fileRef = 2C3B7930202976C200E4A66D /* PlaygroundPanelSketchPanelController.h */; };
-		2C3B7933202976C200E4A66D /* PlaygroundPanelSketchPanelController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C3B7932202976C200E4A66D /* PlaygroundPanelSketchPanelController.m */; };
-		2C3B7935202976C200E4A66D /* PlaygroundPanelSketchPanelDataSource.h in Headers */ = {isa = PBXBuildFile; fileRef = 2C3B7934202976C200E4A66D /* PlaygroundPanelSketchPanelDataSource.h */; };
 		2C3B7937202976C300E4A66D /* CocoaScript.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2C3B7936202976C300E4A66D /* CocoaScript.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
 		2C3B7939202976C300E4A66D /* Mocha.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2C3B7938202976C300E4A66D /* Mocha.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
 		2C3B793B202976C300E4A66D /* PlaygroundPanel.h in Headers */ = {isa = PBXBuildFile; fileRef = 2C3B7910202976C200E4A66D /* PlaygroundPanel.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -66,21 +51,6 @@
 		2C3B7910202976C200E4A66D /* PlaygroundPanel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PlaygroundPanel.h; sourceTree = "<group>"; };
 		2C3B7911202976C200E4A66D /* PlaygroundPanel.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = PlaygroundPanel.js; sourceTree = "<group>"; };
 		2C3B7913202976C200E4A66D /* PlaygroundPanel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PlaygroundPanel.m; sourceTree = "<group>"; };
-		2C3B7916202976C200E4A66D /* PlaygroundPanelMSDocument.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PlaygroundPanelMSDocument.h; sourceTree = "<group>"; };
-		2C3B7918202976C200E4A66D /* PlaygroundPanelMSInspectorStackView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PlaygroundPanelMSInspectorStackView.h; sourceTree = "<group>"; };
-		2C3B791B202976C200E4A66D /* PlaygroundPanelSketchPanel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PlaygroundPanelSketchPanel.h; sourceTree = "<group>"; };
-		2C3B791D202976C200E4A66D /* PlaygroundPanelSketchPanel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PlaygroundPanelSketchPanel.m; sourceTree = "<group>"; };
-		2C3B791F202976C200E4A66D /* PlaygroundPanelSketchPanelCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PlaygroundPanelSketchPanelCell.h; sourceTree = "<group>"; };
-		2C3B7921202976C200E4A66D /* PlaygroundPanelSketchPanelCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PlaygroundPanelSketchPanelCell.m; sourceTree = "<group>"; };
-		2C3B7924202976C200E4A66D /* PlaygroundPanelSketchPanelCellDefault.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PlaygroundPanelSketchPanelCellDefault.h; sourceTree = "<group>"; };
-		2C3B7926202976C200E4A66D /* PlaygroundPanelSketchPanelCellDefault.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PlaygroundPanelSketchPanelCellDefault.m; sourceTree = "<group>"; };
-		2C3B7928202976C200E4A66D /* PlaygroundPanelSketchPanelCellDefault.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = PlaygroundPanelSketchPanelCellDefault.xib; sourceTree = "<group>"; };
-		2C3B792A202976C200E4A66D /* PlaygroundPanelSketchPanelCellHeader.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PlaygroundPanelSketchPanelCellHeader.h; sourceTree = "<group>"; };
-		2C3B792C202976C200E4A66D /* PlaygroundPanelSketchPanelCellHeader.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PlaygroundPanelSketchPanelCellHeader.m; sourceTree = "<group>"; };
-		2C3B792E202976C200E4A66D /* PlaygroundPanelSketchPanelCellHeader.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = PlaygroundPanelSketchPanelCellHeader.xib; sourceTree = "<group>"; };
-		2C3B7930202976C200E4A66D /* PlaygroundPanelSketchPanelController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PlaygroundPanelSketchPanelController.h; sourceTree = "<group>"; };
-		2C3B7932202976C200E4A66D /* PlaygroundPanelSketchPanelController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PlaygroundPanelSketchPanelController.m; sourceTree = "<group>"; };
-		2C3B7934202976C200E4A66D /* PlaygroundPanelSketchPanelDataSource.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PlaygroundPanelSketchPanelDataSource.h; sourceTree = "<group>"; };
 		2C3B7936202976C300E4A66D /* CocoaScript.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = CocoaScript.framework; sourceTree = "<group>"; };
 		2C3B7938202976C300E4A66D /* Mocha.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Mocha.framework; sourceTree = "<group>"; };
 		2C3B793A202976C300E4A66D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -143,47 +113,8 @@
 				2C3B7936202976C300E4A66D /* CocoaScript.framework */,
 				2C3B7938202976C300E4A66D /* Mocha.framework */,
 				2C3B793A202976C300E4A66D /* Info.plist */,
-				2C3B7915202976C200E4A66D /* Protocols */,
-				2C3B791A202976C200E4A66D /* Library */,
-				2C3B7923202976C200E4A66D /* User Subclasses */,
 			);
 			path = PlaygroundPanel;
-			sourceTree = "<group>";
-		};
-		2C3B7915202976C200E4A66D /* Protocols */ = {
-			isa = PBXGroup;
-			children = (
-				2C3B7916202976C200E4A66D /* PlaygroundPanelMSDocument.h */,
-				2C3B7918202976C200E4A66D /* PlaygroundPanelMSInspectorStackView.h */,
-			);
-			name = Protocols;
-			sourceTree = "<group>";
-		};
-		2C3B791A202976C200E4A66D /* Library */ = {
-			isa = PBXGroup;
-			children = (
-				2C3B791B202976C200E4A66D /* PlaygroundPanelSketchPanel.h */,
-				2C3B791D202976C200E4A66D /* PlaygroundPanelSketchPanel.m */,
-				2C3B791F202976C200E4A66D /* PlaygroundPanelSketchPanelCell.h */,
-				2C3B7921202976C200E4A66D /* PlaygroundPanelSketchPanelCell.m */,
-			);
-			name = Library;
-			sourceTree = "<group>";
-		};
-		2C3B7923202976C200E4A66D /* User Subclasses */ = {
-			isa = PBXGroup;
-			children = (
-				2C3B7924202976C200E4A66D /* PlaygroundPanelSketchPanelCellDefault.h */,
-				2C3B7926202976C200E4A66D /* PlaygroundPanelSketchPanelCellDefault.m */,
-				2C3B7928202976C200E4A66D /* PlaygroundPanelSketchPanelCellDefault.xib */,
-				2C3B792A202976C200E4A66D /* PlaygroundPanelSketchPanelCellHeader.h */,
-				2C3B792C202976C200E4A66D /* PlaygroundPanelSketchPanelCellHeader.m */,
-				2C3B792E202976C200E4A66D /* PlaygroundPanelSketchPanelCellHeader.xib */,
-				2C3B7930202976C200E4A66D /* PlaygroundPanelSketchPanelController.h */,
-				2C3B7932202976C200E4A66D /* PlaygroundPanelSketchPanelController.m */,
-				2C3B7934202976C200E4A66D /* PlaygroundPanelSketchPanelDataSource.h */,
-			);
-			name = "User Subclasses";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -193,15 +124,7 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2C3B792B202976C200E4A66D /* PlaygroundPanelSketchPanelCellHeader.h in Headers */,
 				2C3B793B202976C300E4A66D /* PlaygroundPanel.h in Headers */,
-				2C3B7925202976C200E4A66D /* PlaygroundPanelSketchPanelCellDefault.h in Headers */,
-				2C3B791C202976C200E4A66D /* PlaygroundPanelSketchPanel.h in Headers */,
-				2C3B7931202976C200E4A66D /* PlaygroundPanelSketchPanelController.h in Headers */,
-				2C3B7919202976C200E4A66D /* PlaygroundPanelMSInspectorStackView.h in Headers */,
-				2C3B7920202976C200E4A66D /* PlaygroundPanelSketchPanelCell.h in Headers */,
-				2C3B7935202976C200E4A66D /* PlaygroundPanelSketchPanelDataSource.h in Headers */,
-				2C3B7917202976C200E4A66D /* PlaygroundPanelMSDocument.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -291,8 +214,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2C3B7929202976C200E4A66D /* PlaygroundPanelSketchPanelCellDefault.xib in Resources */,
-				2C3B792F202976C200E4A66D /* PlaygroundPanelSketchPanelCellHeader.xib in Resources */,
 				2C3B7912202976C200E4A66D /* PlaygroundPanel.js in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -353,12 +274,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2C3B791E202976C200E4A66D /* PlaygroundPanelSketchPanel.m in Sources */,
-				2C3B7922202976C200E4A66D /* PlaygroundPanelSketchPanelCell.m in Sources */,
-				2C3B7933202976C200E4A66D /* PlaygroundPanelSketchPanelController.m in Sources */,
-				2C3B7927202976C200E4A66D /* PlaygroundPanelSketchPanelCellDefault.m in Sources */,
 				2C3B7914202976C200E4A66D /* PlaygroundPanel.m in Sources */,
-				2C3B792D202976C200E4A66D /* PlaygroundPanelSketchPanelCellHeader.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -569,6 +485,7 @@
 				2C3B79072029756900E4A66D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2C3B793C202976C300E4A66D /* Build configuration list for PBXNativeTarget "PlaygroundPanel" */ = {
 			isa = XCConfigurationList;
@@ -577,6 +494,7 @@
 				2C3B793E202976C300E4A66D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
