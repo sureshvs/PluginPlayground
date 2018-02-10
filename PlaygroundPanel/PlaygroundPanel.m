@@ -38,7 +38,7 @@
 + (void)onSelectionChanged:(id)context {
     id <MAMSDocument> document = [context valueForKeyPath:@"actionContext.document"];
     [document showMessage:@"v1"];
-//    [document showMessage:@"v2"];
+//    [document showMessage:@"v2"]; 
 }
 
 + (void)onShutdown:(id)context {
